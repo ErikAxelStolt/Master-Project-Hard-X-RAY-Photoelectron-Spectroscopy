@@ -15,7 +15,8 @@ Reviewer: Sayantani Bhattacharya
 Examiner: Martin Sjödin & Carla Puglia
 
 
-Summary
+# Summary
+
 This project explores how the stoichiometry of silver sulfide (Ag2S) thin films, produced via reactive sputtering, depends on hydrogen sulfide (H2S) flow and substrate heating. The motivation stems from Ag₂S's use in memristors—resistive switching devices that form the basis of energy-efficient neuromorphic computing hardware.
 
 To characterize the chemical composition and bonding in the films, we use Hard X-ray Photoelectron Spectroscopy (HAXPES), analyzing core-level peaks of silver (Ag 3d) and sulfur (S 2p). Voigt profile fitting and numerical integration allow us to estimate the Ag-to-S ratio in each sample relative to a known Ag₂S reference.
