@@ -2,7 +2,7 @@
 
 This repository contains the code and files for my master project:
 
-## Stoichiometric Analysis of Ag2S Thin Films for Neuromorphic Memristor Applications
+## Stoichiometric Analysis of Ag₂S Thin Films for Neuromorphic Memristor Applications
 
 Erik Stolt, Mattias Söder & Erik Björk
 
@@ -17,13 +17,13 @@ Examiner: Martin Sjödin & Carla Puglia
 
 # Summary
 
-This project explores how the stoichiometry of silver sulfide (Ag2S) thin films, produced via reactive sputtering, depends on hydrogen sulfide (H2S) flow and substrate heating. The motivation stems from Ag₂S's use in memristors, resistive switching devices that form the basis of energy-efficient neuromorphic computing hardware.
+This project explores how the stoichiometry of silver sulfide (Ag₂S) thin films, produced via reactive sputtering, depends on hydrogen sulfide (H₂S) flow and substrate heating. The motivation stems from Ag₂S's use in memristors, resistive switching devices that form the basis of energy-efficient neuromorphic computing hardware.
 
 To characterize the chemical composition and bonding in the films, we use Hard X-ray Photoelectron Spectroscopy (HAXPES), analyzing core-level peaks of silver (Ag 3d) and sulfur (S 2p). Voigt profile fitting and numerical integration allow us to estimate the Ag-to-S ratio in each sample relative to a known Ag₂S reference.
 
 We found that:
 
-* For H2S flows ≥15 standard cubic centimeters (sccm), the films approach stoichiometric Ag2S (Ag:S ≈ 2:1), consistent with optimal memristor conditions.
+* For H₂S flows ≥15 standard cubic centimeters (sccm), the films approach stoichiometric Ag2S (Ag:S ≈ 2:1), consistent with optimal memristor conditions.
 
 * Substrate heating (160 °C) slightly improves sulfur incorporation and the fraction of chemically bound sulfur.
 
